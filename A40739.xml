@@ -1,0 +1,402 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony to the true light which is the vvay of life and righteousness, to all that obey it, and are subject to its requirings : being a serious admonition to all people to turn to the Lord, but more especially intended for the inhabitants of the town of Colchester and parts adjacent / by John Furly ; also, a true relation how the Lord made manifest strength in weakness, and raised up a living testimony to his eternal truth, in a child of his, (named, Elizabeth, who deceased the 16th of the twelf moneth, called February 1669) to the admiration of all that were about her.</title>
+            <author>Furly, John, 1618-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40739</idno>
+            <idno type="STC">Wing F2541A</idno>
+            <idno type="STC">ESTC R40428</idno>
+            <idno type="EEBO-CITATION">19319300</idno>
+            <idno type="OCLC">ocm 19319300</idno>
+            <idno type="VID">108594</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40739)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108594)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1670:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony to the true light which is the vvay of life and righteousness, to all that obey it, and are subject to its requirings : being a serious admonition to all people to turn to the Lord, but more especially intended for the inhabitants of the town of Colchester and parts adjacent / by John Furly ; also, a true relation how the Lord made manifest strength in weakness, and raised up a living testimony to his eternal truth, in a child of his, (named, Elizabeth, who deceased the 16th of the twelf moneth, called February 1669) to the admiration of all that were about her.</title>
+                  <author>Furly, John, 1618-1686.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Furly, Elizabeth, d. 1670.</term>
+               <term>Inner Light.</term>
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108594:1" rendition="simple:additions"/>
+            <p>A TESTIMONY TO THE True Light, Which is the VVay of Life and Righ<g ref="char:EOLhyphen"/>teouſneſs, to all that obey it, and are ſub<g ref="char:EOLhyphen"/>ject to its requirings.</p>
+            <p>Being a Serious Admonition to all People to turn to the Lord; but more eſpecially intended for the In<g ref="char:EOLhyphen"/>habitants of the Town of <hi>Colcheſter</hi> and Parts adjacent.</p>
+            <p>By <hi>John Furly.</hi>
+            </p>
+            <p>Alſo, A true Relation how the Lord made manifeſt ſtrength in weakneſs, and raiſed up a living Teſtimony to his Eter<g ref="char:EOLhyphen"/>nal Truth, in a Child of his, (named, <hi>Elizaboth,</hi> who deceaſed the 16th of the twelf Moneth, called <hi>February</hi> 1669.) to the admiration of all that were about her.</p>
+            <q>
+               <hi>My Son, if thy heart be wiſe, my heart ſhall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, even mine; yea, my reins ſhall rejoyce when thy lips ſpeaketh right things,</hi> 
+               <bibl>Pro. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 15, 16.</bibl>
+            </q>
+            <q>
+               <hi>The lip of Truth ſhall be eſtabliſhed for ever,</hi> 
+               <bibl>Prov. 12. 19.</bibl>
+            </q>
+            <q>
+               <hi>Every man will kiſs his lips that giveth a right anſwer,</hi> 
+               <bibl>Prov. 24. 26.</bibl>
+            </q>
+            <q>
+               <hi>The Tongue of the Juſt is as choice Silver,</hi> 
+               <bibl>Prov. 10. 20.</bibl>
+            </q>
+            <q>
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> unto the Righteous, it ſhall be well with them, for they ſhall eat the fruit of their doings,</hi> 
+               <bibl>Iſa. 3. 10.</bibl>
+            </q>
+            <p>Printed in the Year, 1670.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:108594:2"/>
+            <pb n="3" facs="tcp:108594:2"/>
+            <head>
+               <hi>A Serious Exhortation to my Neigh<g ref="char:EOLhyphen"/>bours and Acquaintance in and a<g ref="char:EOLhyphen"/>bout the Town of</hi> Colcheſter, <hi>to improve their time, before the day of their Viſitation be over.</hi>
+            </head>
+            <p>TO praiſe my dear deceaſed Child (who is entred into her Reſt, and her Works follow her) or to exalt my ſelf, the Lord is my Witneſs, I do not expoſe this Relation to publick view; but to exalt the Name of our God, and of his Everlaſting Truth, whoſe Name alone is excellent throughout all the Earth; who rather then fail will and doth raiſe up Children to be the Heralds to proclaim his Goodneſs, making good his Promiſe; to ordain praiſes out of the Mouths of Babes and Sucklings: I ſay for <note place="margin">
+                  <hi>Pſal.</hi> 8. 2.</note> this cauſe am I made willing it ſhould be communi<g ref="char:EOLhyphen"/>cated to publick view, and that others may be ex<g ref="char:EOLhyphen"/>cited and ſtirred up thereby to enquire after the Way of Life and Happineſs; that they with her may find reſt alſo for their immortal Souls. There are many I know with <hi>Balaam</hi> will deſire to dye the death of the Righteous, and that their latter end may be like theirs, who never ſo much as chuſe the Lord to be their Portion, as ſhe did, nor ſcarce ſet one foot for<g ref="char:EOLhyphen"/>ward
+<pb n="4" facs="tcp:108594:3"/> in the Way which is Everlaſting, but are ra<g ref="char:EOLhyphen"/>ther walking in the many by-paths, and in the crook<g ref="char:EOLhyphen"/>ed and broad way which leads to perdition, when as the Way is but one, and its a plain Way, in which the Wayfaring-man, though a Fool, (giving heed <note place="margin">
+                  <hi>Iſa</hi> 35. 8.</note> thereunto) ſhall not err: Its the Way in which this Child was educated from her child-hood, and it led her, and it is of ability (I do affirm it in the Name of the Lord, and give it in as my Teſtimony for his everlaſting Truth) to bring all that ſhall o<g ref="char:EOLhyphen"/>bey it to the ſame Haven of Reſt and Happineſs as it brought her.</p>
+            <p>Queſt. Now many an honeſt heart may ſay, <hi>Let me know that Way, and acquaint me with that Princi<g ref="char:EOLhyphen"/>ple; for reſt is that which I deſire, and is that which I have long been ſeeking after.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> To ſuch I anſwer, Chriſt Jeſus is the Way, who hath lighted every man and woman that com<g ref="char:EOLhyphen"/>eth into the World; who is come a Light into the <note place="margin">
+                  <hi>Joh.</hi> 9. <hi>Joh.</hi> 3. 17.</note> World, to the intent that all men through him might believe and be ſaved; according to his own aſſertion, <hi>I am the Light of the World, he that be<g ref="char:EOLhyphen"/>lieveth</hi> 
+               <note place="margin">
+                  <hi>John</hi> 12. 46. <hi>Joh,</hi> 8. 12 <hi>Joh.</hi> 1. 12 <hi>Joh.</hi> 3. 19</note> 
+               <hi>in me ſhall not abide in Darkneſs but ſhall have the Light of Life; And as many as did receive him, to them he gave Power to become the Sons of God;</hi> And to thoſe that believe in him he is the ſame at this day; but thoſe that did not believe on him, but reject him and his Counſel, againſt their own ſouls, thoſe were condemned by him, becauſe they believed not in him; for ſo himſelf affirms, <hi>This is the Condemnation that Light is come into the World, and men love dark<g ref="char:EOLhyphen"/>neſs rather then Light;</hi> That is the very cauſe of con<g ref="char:EOLhyphen"/>demnation,
+<pb n="5" facs="tcp:108594:3"/> and the cauſe why the Wrath of God comes upon men and women; to wit, Becauſe they are diſobedient to the Light with which they are enlightned, which if they did obey, it would lead them to the Light of Life.</p>
+            <p>Queſt. But ſome are ready to ſay, <hi>Why is it called Light? Where doth this Light ſhine? Or where is it to be found? And what effects, when it is obeyed, will it produce?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> For the ſake of the ſimple-hearted I ſhall lay it down, as I have received it of the Lord.</p>
+            <p>
+               <hi>Firſt,</hi> Moſt properly it is called Light, becauſe it maketh manifeſt, according to the Apoſtles own words, <hi>What ever is reproved, is made manifeſt by the Light; for whatever maketh manifeſt is</hi> 
+               <note place="margin">
+                  <hi>Ephe.</hi> 5. 13.</note> 
+               <hi>Light.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> This Light ſhineth in the heart, making manifeſt the evil that lurketh and lodgeth there, di<g ref="char:EOLhyphen"/>ſcovering the very hidden things of diſhoneſty; <note place="margin">2 <hi>Cor.</hi> 4. 6.</note> making a difference there, between the precious and the vile: And it is a Diſcoverer of the very thoughts, intentions, and purpoſes of the heart, ſo <note place="margin">
+                  <hi>Heh.</hi> 4. 12.</note> that the Enemy of the ſoul cannot lay a bait to in<g ref="char:EOLhyphen"/>ſnare you, or with his cunning wiles come to tempt you; but as you apply your ſelves to the Light of Chriſt, (which ſhineth in your hearts) for directi<g ref="char:EOLhyphen"/>on, and believe therein, and flee thereunto, as unto a ſtrong Tower, ye will find ſafety.</p>
+            <p>
+               <hi>Thirdyy,</hi> I do affirm, that this Light of Chriſt, which ſhineth in the heart, hath Power, Vertue, and Efficacy in it to overcome the evil One in all his appearances; and therefore the Apoſtle <hi>Paul</hi> rightly <note place="margin">
+                  <hi>Rom.</hi> 13. 12.</note>
+               <pb n="6" facs="tcp:108594:4"/> calls it Armor; commends it to be the Armor of proof; commands it to be put on: Saith he, <hi>Put on the Armor of Light, by which you ſhall be able to reſiſt</hi> 
+               <note place="margin">
+                  <hi>Ephe.</hi> 6. 16.</note> 
+               <hi>the fiery Darts of the Devil;</hi> not onely be able to reſiſt temptations from wicked men without you, but a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſo the Devils temptations within you: Yea his Darts, his moſt piercing Darts, his fiery Darts, and not onely ſome of them, but all his fiery Darts are to be reſiſted by this Light, which is Armor.</p>
+            <p>Friends and People, there is but Chriſt or Be<g ref="char:EOLhyphen"/>lial, there is but Light or Darkneſs ruling in every man or woman that is in the World; the Darkneſs, and the power of it, is that which leads and hurries men and women into ſin and evil: The Light and Power thereof, is that which makes ſin and evil ma<g ref="char:EOLhyphen"/>nifeſt, convinceth of ſin, repoveth for it, and leads out of it; and this Light is not at a diſtance from <note place="margin">
+                  <hi>Joh.</hi> 16. 8</note> you, but it ſhineth in your hearts, in which the a<g ref="char:EOLhyphen"/>boundant Love and Kindneſs of God unto man hath appeared; that as the Enemy of mens Souls hath got a Seat in man, and is near to him (for as its ſaid, <hi>He ruleth in the hearts of the Children of</hi> 
+               <note place="margin">
+                  <hi>Ephe.</hi> 2. 2</note> 
+               <hi>diſobedience)</hi> to tempt him to ſin and evil; ſo the Light of Chriſt is in him alſo, to ſhew him the ſin, and to lead man out of it, and to give him power to reſiſt him in all his appearances: So by minding hereof you will not be caught in his ſnare; for as its ſaid, <hi>In vain is the Net laid in ſight of the Bird;</hi> yea, <note place="margin">
+                  <hi>Prov.</hi> 1. 17.</note> as you apply your ſelves to the Light, and wait for power there from, and ſtand upon your watch Tower, the Enemy of your ſouls will flee from you, as a routed Enemy, or as darkneſs doth when
+<pb n="7" facs="tcp:108594:4"/> the Sun ariſeth, and it cannot be otherwiſe, for he cannot abide the Light, in it he cannot dwell; dark<g ref="char:EOLhyphen"/>neſs is his Center and Habitation: The appearance <note place="margin">
+                  <hi>Pro.</hi> 4. 17</note> of Light is the appearance of God, and that is terrible to him, that wounds him moſt; for God is Light, and in it he dwells, and in him is no darkneſs <note place="margin">1 <hi>John</hi> 1. 5. 2 <hi>Cor.</hi> 6. 15.</note> at all; and Light and Darkneſs cannot dwell together, nor Chriſt with Belial; and therefore this old ſubtil Serpent the Devil, the Enemy of man-kind, bends his greateſt ſtrength againſt the Light: I ſay the power of Darkneſs moſt oppoſes that, if he can but bring men and women into a diſ-eſteem and diſ-re<g ref="char:EOLhyphen"/>gard of the Light, to account that as a ſlight or a <note place="margin">2 <hi>Cor.</hi> 4. 4.</note> mean thing, not worth the minding, he ſoon makes that man or woman his Slave and Vaſſel; as it is written, <hi>The god of this World blinds the minds of them which believe not, leaſt the Light of the glorious Goſ<g ref="char:EOLhyphen"/>pel of Chriſt</hi> (which is the Image of God) <hi>ſhould ſhine upon them;</hi> [Mark] He would not have the Light to ſhine, nor its operation in the heart to be regarded; for where its minded he knows men and <note place="margin">
+                  <hi>Joh.</hi> 12. 40.</note> women ſoon comes to be redeemed, from under his power, region, and dominion; and therefore he blinds their minds and cloſes their eyes, leaſt they ſhould ſee with their eyes, and underſtand with their hearts, and be converted, and the Lord ſhould heal them: I ſay, the power of darkneſs both in himſelf within, and in his Inſtruments without, bends his greateſt ſtrength and force (ſetting it as it were in battel array) againſt the Light, and the Children of the Light, becauſe that makes him and his Kingdom manifeſt, and not only ſo, but deſtroyes, and alſo de<g ref="char:EOLhyphen"/>tects
+<pb n="8" facs="tcp:108594:5"/> all the deceitful &amp; unfruitful works of darkneſs, that are brought forth by him, and by his off-ſpring, which are all children of darkneſs; and could he but expel the Lig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t out of the World, and root that out of the hearts of people, then he would ſoon ac<g ref="char:EOLhyphen"/>compliſh his deſired end indeed; then would his mountain ſtand ſtrong for ever; but bleſſed be the Lord, &amp; magnified be the pure Name of our God for ever, whoſe Glory is revealed, and whoſe Light is riſen, which not only makes him and his ſubjects manifeſt, but ſhall alſo deſtroy and expel the pow<g ref="char:EOLhyphen"/>er of darkneſs, and lay waſte his heritage for ever; it hath done ſo already in the hearts of thouſands, <note place="margin">
+                  <hi>Prov.</hi> 4. 18.</note> yea, of ten thouſands, and it ſhall increaſe more and more, till the Righteouſneſs thereof go forth as brightneſs, and the Salvation thereof as a Lamp <note place="margin">
+                  <hi>Iſa.</hi> 62. 1.</note> that burneth; for that is God's determination, to exalt his Son Chriſt Jeſus, the Light of the World, and to give him a Name above every name; yea; he will magnifie his Law (and <hi>Solomon</hi> tells thee in the Proverbs, <hi>The Law is Light)</hi> and make it ho<g ref="char:EOLhyphen"/>norable; <note place="margin">
+                  <hi>Pro.</hi> 6. 23 <hi>Iſa.</hi> 23. 21.</note> he hath done it in a great meaſure alrea<g ref="char:EOLhyphen"/>dy; the reproach of his people he hath taken away, the mockings of <hi>Moab,</hi> the revilings of the Chil<g ref="char:EOLhyphen"/>dren of <hi>Ammon</hi> is little now to what it was in years paſt; but he will magnifie it yet more, and make it yet more honourable; for the Gentiles muſt come to this Light, and Kings to the brightneſs of its ri<g ref="char:EOLhyphen"/>ſing, <note place="margin">
+                  <hi>Iſa.</hi> 60. 3. <hi>Revel.</hi> 21 24.</note> as it was propheſied by <hi>Iſaiah;</hi> for the Nations of them that are ſaved muſt come to walk in the Light of the Lamb, of which Friends and People, we affirm that without it ye cannot be freed from
+<pb n="9" facs="tcp:108594:5"/> the cunning wiles of Satan, who goes about like a roaring Lyon, ſeeking whom he may devour; for Friends, there is not another power can ſave you from ſin, but that Power which makes ſin manifeſt; there are but two powers to which all men and wo<g ref="char:EOLhyphen"/>men in the World are ſubject, the one leads into ſin, the other leads out of ſin; that power which prompts and leads into ſin, all men will readily grant thats the power of Darkneſs, that never leads to God, nor yet to goodneſs; that Power which leads out of ſin and evil, it muſt on the contrary be confeſt, is the Arm and Power of God, none dare ſay that that at any time leads into ſin and e<g ref="char:EOLhyphen"/>vil.</p>
+            <p>So Friends and Neighbours, with the Light which ſhines in your hearts, which as you are faithful unto, will increaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſhine more and more until it be per<g ref="char:EOLhyphen"/>fect <note place="margin">
+                  <hi>Pro.</hi> 4. 18</note> d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, examine your ſelves every day and hour under wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Powe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Region you are, and whom you do <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>(For his Servants aſſuredly you are</hi> (as it is written) <hi>to wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m you yield obedience)</hi> This Light will <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with you, it will fl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ter none of you, nor will i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> accuſe any of you falſly; its Voice is God's Voice in you: and ſpeaks one and the ſame Language with the Lord in Heaven; it will never juſtifie you when you do evil, (but then brings an<g ref="char:EOLhyphen"/>guiſh, tri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulation, and ſorrow upon you) nor never condemn you when you have done well; when you do well, you find and feel inwardly acceptance with the Lord; Honour, Glory, and Immortallity, is your Portion, agreable to the Apoſtles words, <hi>If our Hearts condemn us not, then have we peace towards</hi> 
+               <note place="margin">1 <hi>John</hi> 3. 21.</note>
+               <pb n="10" facs="tcp:108594:6"/> 
+               <hi>God;</hi> So dear Friends, ſlight not its appearance, for it never appears but to do you good, or to preſerve you from evil before you enter into it; it is a faith<g ref="char:EOLhyphen"/>ful Witneſs, there is no bribing of it, that will do <note place="margin">
+                  <hi>Pro.</hi> 14. 5</note> its Office, it will ſhew you the evil you are about to do, that ſo of your blood it may be clear, and if you are condemned, your condemnation may be of your ſelves, as Chriſt the Light of the World ſaid, <hi>If I had not come ye had not had ſin, but now you have no Cloak for your ſin;</hi> now men have no excuſe, as it is written, <hi>All men ſhall be left without excuſe;</hi> 
+               <note place="margin">
+                  <hi>John</hi> 15. 22.</note> 
+               <hi>Every mouth ſhall be ſtopped;</hi> becauſe, What could the Lord have done more for men and women, then to place a Light (which is a meaſure of his own Spi<g ref="char:EOLhyphen"/>rit) ſo near them, even in, in their very Hearts and Conſciences, that the Enemy of their ſouls cannot budge or ſtir, but this Light makes him manifeſt; <note place="margin">
+                  <hi>Eph.</hi> 5. 13</note> and often woeth and beſeecheth men to forſake the evil of their wayes, which grieves his holy Spirit, and wounds their own ſouls; had the Lord not cauſ<g ref="char:EOLhyphen"/>ed ſuch a Light to ſhine, or had it not ſhined within, in the heart, where the Devil, and his temptations, and his goods lodgeth, man might have had a fair plea, and a juſt excuſe another day; &amp; have ſaid, Lord, I ſaw not the Tempter, nor his Temptation, thou gaveſt me nothing to diſcover him; nor yet, that that was of au<g ref="char:EOLhyphen"/>thority or power to reſiſt or graple with ſo potent an Adverſary; I was without any Light which ſhould manifeſt his approach to me, or if I had it, it was a Light remote from me, the Enemy was in one place, and the Armour of Light by which I ſhould reſiſt the Devil (and ſo he be made to flee from
+<pb n="11" facs="tcp:108594:6"/> me) was in another place, at a great diſtance from me, and I needed it nearer me, yea, within me, for, there I felt the power of Darkneſs ſtirring to tempt and prompt me to ſin and evil, and ſo I was over-come <note place="margin">
+                  <hi>Eph.</hi> 2. 2.</note> by him: Yea, and this would have been a fair excuſe at the Bar of God's Tribunal; but all men ſhall be left without excuſe, becauſe, Chriſt is <note place="margin">1 <hi>Joh.</hi> 2. 8.</note> come, the true Light ſhineth, and it ſhineth in your hearts, and makes manifeſt the ſin that lodgeth there, to the end that ye might joyn to its Power, and reſiſt the Devil in his firſt appearance, that ſo the Cockatrice-Egg might be broaken, before ever it come to be a Serpent: My ſelfe, with many o<g ref="char:EOLhyphen"/>thers can ſet to our ſeal, that this is true; We have been redeemed by its Power; We have been ſaved and preſerved by its Arme; We have felt its Efficacy in our hearts, not only to make ſin and evil manifeſt, but alſo to give us power againſt ſin, as we have ad<g ref="char:EOLhyphen"/>hered and joyned to it; yea, it hath cleanſed us, and ſanctified us, and wrought in us mightily, and inabled us to make that reſiſtance which otherwiſe we had never been able to make againſt the man of ſin, and the power of darkneſs, by which we know it is the Power of God; as Chriſt ſaid, <hi>If I do not the Works that none ever did, believe me not; If I do, then believe me for my Works ſake:</hi> We have felt and taſted it, and experienced it many a year; and ſo we affirm not of a thing which we have not tryed, or which we have taken up upon truſt or here-ſay, from other mens reports; but we have believed, and therefore do we ſpeak; we have tryed it, and therefore we cannot but praiſe it, and recommend it
+<pb n="12" facs="tcp:108594:7"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o others, as the only Armour by which ye muſt be inabled to reſiſt all the fiery Darts of the Devil; and as that without which ye cannot be preſerved from ſin and evil, but no ſooner from Sinners without ſhall ye be inticed, but you ſhall conſent unto them; <note place="margin">
+                  <hi>Prov.</hi> 1. 10.</note> nor no ſooner be tempted by the Evil-One within, but you ſhall yield to his temptations. And therefore dear Friends and Townſ-men, I exhort you all in the Name and Fear of the Lord, to prove and try this ex<g ref="char:EOLhyphen"/>cellent piece of Armour of Light; and to that end ex<g ref="char:EOLhyphen"/>amine firſt, whether there is not a Light in you, which ſhews you your thoughts, intentions, and purpoſes of your hearts, whether they be evil or good, and by what name can you call this, but Light; and then examine further, when you have an intent and purpoſe to do evil, whether this Light doth not warn you of it be<g ref="char:EOLhyphen"/>fore-hand, ſhewing you its a wicked thing you are a<g ref="char:EOLhyphen"/>bout to do? and that its againſt the Will and Com<g ref="char:EOLhyphen"/>mand of God, and againſt the Witneſs of God in your own Conſciences, and yet oft-times you will preſume to do it, (can any man deny this to be true, except ſuch as are ſeared as with a hot Iron?) Well, notwith<g ref="char:EOLhyphen"/>ſtanding the Light thus teſtifieth againſt the evil, yet when ye have committed it, examine further, whe<g ref="char:EOLhyphen"/>ther it ceaſeth to do another Office, and that is to bring Judgment upon you, to reprove you, and con<g ref="char:EOLhyphen"/>vince you of the evil you have done, and ſomtimes lies ſo hard upon your Conſciences that you reſolve not to do the like another time; and yet again you not minding the Light, but rather rebelling againſt it, are ſoon over-taken in the ſame evil again: Oh Friends, upon examination of your own hearts,
+<pb n="13" facs="tcp:108594:7"/> you knowing theſe things to be true, methink, if you would act reaſon but as men, you ſhould argue in this manner; Surely this Light which ſhines in my heart is the Light of the Lord, &amp; its not placed in me to be put under a Buſhel; ſurely I ought to obey it, &amp; give heed to it; it is a precious Light, for it ſtrives with me to make me good; it pleads with me on God's behalf, to forſake evil, and it never reproves me but when I do evil; ſurely it can be no leſs then a meaſure of God's Good Spirit, that thus ſhines in my heart; and ſo cauſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you to take up a Reſolution hence-forth to love and obey it and be led by it; it was ſo with me when I was firſt convinced: The Light was ſo plain a Thing, and ſo precious, and ſo clear a Truth to me, that I have oft-times wondred in my ſelf how I could oppoſe it ſo long, and did not bow to it ſoon<g ref="char:EOLhyphen"/>er; and I then concluded what ever it coſt me, to walk in the Light, and be obedient thereunto; and I can truly ſay to this day, I have not ſerved a hard Ma<g ref="char:EOLhyphen"/>ſter, nor was it ever in the leaſt in my heart to queſtion the truth of it, nor hath my faith therein been ſhaken; but without all controverſie it is un<g ref="char:EOLhyphen"/>doubtedly the Way to Life and Immortallity, and a Voyce from that excellent Glory, which if men do not give heed unto, and anſwer its requiring, it will be their condemnation; for if they that deſpiſed <hi>Moſes</hi>'s Law dyed without mercy, of how much <note place="margin">
+                  <hi>Heb.</hi> 10. 28, 29.</note> ſorer puniſhment ſhall he be thought worthy, that tre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds under foot the Son of God and doth deſpite to the Spirit of Grace. Conſider further, that that which hath no fellowſhip with the unfruitful works of darkneſs, but which conſtantly declares againſt it, &amp; re<g ref="char:EOLhyphen"/>proves
+<pb n="14" facs="tcp:108594:8"/> for it, cannot be of the nature of the dark<g ref="char:EOLhyphen"/>neſs, againſt which it teſtifies, but of a contrary Nature, to wit, of the Light; and it is that Seed which God hath left in man, of which the Apoſtle teſtifies, <hi>Had he not left us a Seed, we had been as</hi> So<g ref="char:EOLhyphen"/>dom, <note place="margin">
+                  <hi>Rom.</hi> 9. 29.</note> 
+               <hi>and made like unto</hi> Gomorrah. Now ſome will confeſs there is a relique of the Image of God (which <hi>Adam</hi> was in, in innocency) left in man; but they reckon it a trifle, and deny it to be of any power or efficacy to lead to God; but we who h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve felt its living Power and Vertue do teſtifie for God, and for his Truth, that its of a growing N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ture, and though, in its firſt appearance, it is ſmall and little, e<g ref="char:EOLhyphen"/>ven as a Grain of Muſtard-ſeed, as Chriſt compa<g ref="char:EOLhyphen"/>red it, the leaſt of all the Seeds in the Garden, yet it comes in time to be the greateſt of all Herbs, and becometh a Tree. Friends, doth it make manifeſt to you one evil one day? be faithful to its manifeſtati<g ref="char:EOLhyphen"/>on, &amp; ceaſe from that evil, &amp; then it will teach you to deny an other, and an other evil after that; for, to that end the Grace of God appeareth, until all un<g ref="char:EOLhyphen"/>godlineſs <note place="margin">
+                  <hi>Titus</hi> 2. 11.</note> and worldly luſts be denyed, and teache<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to live Righteouſly, Holy, and Soberly in this pre<g ref="char:EOLhyphen"/>ſent World: And until you become a new Lump cre<g ref="char:EOLhyphen"/>ated in Chriſt Jeſus unto good Works; for like unto Leaven alſo did Chriſt compare it, which hid in three meaſures of Meal leavened the whole Lump: I ſay, as ye are ſubject to its operation and manifeſtation, be it in never ſo little, yet being faithful hereunto, ye ſhall be Rulers over much, and ſo at length come to rule in the Power and Authority of the Lord, over Satan and all his temptations.</p>
+            <pb n="15" facs="tcp:108594:8"/>
+            <p> So, Friends and People, to this Principle of God, which is near you, which brought this Child near unto the Lord, and neer and dear unto his People, do I recommend you, and not to a new thing which you have never before heard of, or in no wiſe ex<g ref="char:EOLhyphen"/>perienced; but to that which you cannot but be ſen<g ref="char:EOLhyphen"/>ſible of hath ſtriven with you ever ſince you were Children, and came to know your right hand from your left, which, I ſay, from that time bore a ſe<g ref="char:EOLhyphen"/>cret teſtimony in your hearts, for God, againſt your Lyes and Falſhoods, and Evils committed, though in never ſo much ſecreſie; nay, although your Lyes had the beſt gloſs and cover put upon them that the Devil, and your own wicked hearts, could invent, yet did this pure Witneſs of God (which never conſented to ſin and evil, nor could be contaminated o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> defiled by it) bear a true and faithful Witneſs a<g ref="char:EOLhyphen"/>gainſt you, and ſhew you that you lyed and did wickedly; unto this, I ſay, do I recommend you, if ever you expect to enter that Kingdom into which no unclean thing can enter, or ever ye expect to be a Habitation for God, or fit Veſſels for the Lord's uſe; even to the Word in your hearts; for he that is the Light of the World is alſo called the Word of God, <note place="margin">
+                  <hi>Rev.</hi> 19. 13.</note> which was from the beginning, unto which <hi>David</hi> in his day recommended Young-men, as that by <note place="margin">
+                  <hi>Pſal.</hi> 119. <hi>Prov.</hi> 6. 23. <hi>Joh.</hi> 15. 3.</note> which they ſhould clenſe their way; and which <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> teſtified of, Which was Guide unto his Feet, and a Lamp unto his Path; And which Chriſt teſtified of, had clenſed his Diſciples, Ye are clean through the Word; Which <hi>Peter</hi> alſo teſtified, of, To be a marvellous Light; and the Apoſtle <hi>Paul</hi> 
+               <note place="margin">1 <hi>Pet.</hi> 2. 9.</note>
+               <pb n="16" facs="tcp:108594:9"/> brings in his teſtimony concerning this ingrafted Word, That its nigh, even in the Heart and in the Mouth, ſo that none ſhall need to ſay, Who ſhall aſcend to bring it down, or deſcend to bring <note place="margin">
+                  <hi>Rom.</hi> 10.</note> it up, for its nigh in the heart and in the mouth: And this was the Doctrine of all the holy Men of God, in all Ages of the World: <hi>David</hi> prayed to the Lord, That he would lift up his Light, and his Truth, that they might lead him; for as he ſaith in another place, <hi>In thy Light we ſhall ſee Light;</hi> 
+               <note place="margin">
+                  <hi>Iſa.</hi> 2. 5.</note> And the Prophet <hi>Iſaiah</hi> exhorted thoſe that he loved, To walk in the Light of the Lord, and walked therein himſelf; <hi>Come,</hi> ſaith he, <hi>And let us walk in the Light of the Lord;</hi> he calls it, <hi>The good old Way, and leads into the new and living Way;</hi> and this was the very end why <hi>Paul</hi> had a Miniſtry committed to him, to wit, <hi>That h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t turn peo<g ref="char:EOLhyphen"/>ple from Darkneſs unto Light, and fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he power of Satan unto God;</hi> Good old <hi>Simion</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaith, <hi>Its</hi> 
+               <note place="margin">
+                  <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</hi> 26. 18.</note> 
+               <hi>the Way prepared before the face of all People:</hi> Therefore now Friends, you giving up your con<g ref="char:EOLhyphen"/>ſent to the truth of theſe things, by an inward con<g ref="char:EOLhyphen"/>viction in your Conſciences, (for to that I appeal, and to that alwayes the Apoſtles defired to be evident) rebel no longer againſt it, the Spirit of God ſhall not always ſtrive with you, and if you continue in re<g ref="char:EOLhyphen"/>bellion againſt it, you ſhall never know the Way <note place="margin">
+                  <hi>Job</hi> 24. 13</note> of it; and this is one main reaſon why the Light is ſo much oppoſed and ſpoken againſt, becauſe peo<g ref="char:EOLhyphen"/>ple through their rebellion to it, know not the ver<g ref="char:EOLhyphen"/>tue and efficacy of it, and ſo ſpeak evil of that they know not, but are incompetent Judges in the caſe;
+<pb n="17" facs="tcp:108594:10"/> and an other reaſon is, becauſe commonly they are men of perverſe minds, evil men, concerning the Faith, Reprobates.</p>
+            <p>And this Light reproves for evil deeds; as Chriſt ſaid, <hi>He that doth evil hateth the Light, and will not bring his deeds to the Light, leſt the Light ſhould re<g ref="char:EOLhyphen"/>prove</hi> 
+               <note place="margin">
+                  <hi>John</hi> 3. 20.</note> 
+               <hi>him;</hi> ſo from Chriſt's own Words it follows, they are evil men that hates the Light, or ſpeaks contemptibly of it, they are ſuch as are Enemies in their minds to it through wicked works. <note place="margin">
+                  <hi>Col.</hi> 1. 20.</note>
+            </p>
+            <p>But may ſome ſay, <hi>Do not our Prieſt and Pro<g ref="char:EOLhyphen"/>feſſors with one conſent (yea, as unanimonſly, as ever the</hi> Jews <hi>called to have Chriſt crucified, releaſe not this man to us, but</hi> Barrabas) <hi>ſpeak and exclaim againſt the Light; Some ſay its a check; ſome ſay a natural light; and ſome a carnal light; others an in<g ref="char:EOLhyphen"/>ſufficient light; and ſome call it an</hi> Ignus Fatuus; <hi>and ſome a diabolical light; but the truth is (ſaith many an honeſt heart) they are divided among themſelves about it (as the Elders was in accuſing innocent</hi> Suſanna; <hi>ſome ſaid, under a Sick more Tree; and ſome under an other Tree; and none of all theſe teſtimonies in this caſe are true; or to be regarded) and we know not what to think of it; but I dare not but think</hi> (ſay ſome people) <hi>that many of them are knowing men, and good men, and who ſhall we believe? Its none but you</hi> Quakers <hi>commend the Light, as it was ſaid of Chriſt's Followers of old, Do any of the Rulers of the People believe in him? but this People that know not the Law are accurſed.</hi>
+            </p>
+            <p>Here what Chriſt ſaith, He concludes them igno<g ref="char:EOLhyphen"/>rant men; againſt whom thou art not (whoſoever
+<pb n="18" facs="tcp:108594:11"/> thou art) to opoſe thy judgment: He ſaid to the learn<g ref="char:EOLhyphen"/>ed <note place="margin">
+                  <hi>Mat.</hi> 22. 29.</note> 
+               <hi>Phariſees, You err not knowing the Scripture</hi> (though they had the Scripture) <hi>nor the Power of God;</hi> and teſtifies further againſt them, They were evil men, and a Generation of Vipers, and herein their wickedneſs appeared in hating the Light; <hi>He that doth evil hates the Light;</hi> ſuch as are reproved by <note place="margin">
+                  <hi>John</hi> 3. 20.</note> it, and judged by it, and condemned by it, are the onely Haters of it: I ſay, ſuch as would have Chriſt's Kingdom pulled down, and Satans King<g ref="char:EOLhyphen"/>dom ſet up, its no other that dare lift up a hand or a tongue againſt the Light, whatever they may profeſs in words; can you make me believe, or any rational man, that a good man that hath experien<g ref="char:EOLhyphen"/>ced its operation, and that walks in the Light, can ſpeak againſt the Light? its as eaſie and as poſſible for a man to fathom the Are, or make a Girdle for the Sun; he cannot, he dares not; for the Light is his Life, his Armour, his Preſerver, his ſtrong Tower, (which as he flees unto he is ſafe) its his de<g ref="char:EOLhyphen"/>light to dwell in it, and walk in it; its that which he is made a child of; ſhould he ſpeak againſt the Light, he ſhould ſpeak againſt the Lord, he ſhould vi<g ref="char:EOLhyphen"/>lifie his Maker, he ſhould ſpeak againſt his own In<g ref="char:EOLhyphen"/>tereſt, and againſt that Kigndom of which he is an Heir; for the Inheritance which is prepared for him, and others of the Cloud of Witneſſes gone before him, is an Inheritance of Light; for the Apo<g ref="char:EOLhyphen"/>ſtle <note place="margin">
+                  <hi>Col.</hi> 1. 12.</note> called it, <hi>An Inheritance with the Saints in the Light;</hi> Nay he is ſo far from ſpeaking againſt it, that he continually exalts it, and commends it; and commends it beſt by walking in the Light, and is ready to
+<pb n="19" facs="tcp:108594:11"/> lay down his Life in defence of the truth of it; <hi>He that doth well</hi> (its written) <hi>loves the Light, and</hi> 
+               <note place="margin">
+                  <hi>Joh.</hi> 3. 21</note> 
+               <hi>brings his deeds to it, that it might be manifeſt his works are wrought in God.</hi> So all Friends and Peo<g ref="char:EOLhyphen"/>ple, its an everlaſting Truth to you, neither your Guides nor your ſelves can ever be competent Judges of the Light, or of its ſufficiency, nor ever truly report of its Authority or Power, nor know what it will lead you from<g ref="char:punc">▪</g> nor bring you unto, until you come to be led by it, and give up to its requirings, (as did this dear Child) and when you have done ſo, you will bring in your Teſtimonies for the Lord with me and others, that its a marvellous Light, and worthy to be followed, loved, and obeyed, for Wiſdom was, and ever will be juſtified of her Children, as it was ever hated of its Enemies; but on the contrary, the children of Darkneſs will ex<g ref="char:EOLhyphen"/>alt their fathers Kingdom, the Prince of Darkneſs, and their inheritance, which is a kingdom of Dark<g ref="char:EOLhyphen"/>neſs, <note place="margin">2 <hi>Pet.</hi> 2. 17. <hi>Jude</hi> 6.</note> where they are reſerved in Chains of Darkneſs to the Judgment of the great Day.</p>
+            <p>So Friends and Townſ-men, whoſe lives the Lord hath miraculouſly ſpared, in the laſt great Contagion in this Town, which ſwept away thou<g ref="char:EOLhyphen"/>ſands, and alſo hath hitherto preſerved, in or from this laſt Viſitation of the Small-Pox; and made you li<g ref="char:EOLhyphen"/>ving monuments of his Mercy at this day: Let the time paſt ſuffice, wherein you have walked contrary to this Light of Chriſt in your Conſciences, and ſaid often to it in your Hearts in this kind, <hi>Ceaſe from before me, I deſire not the knowledge of thy Law;</hi> nor would you hear the voyce of the Charmer, charm
+<pb n="20" facs="tcp:108594:12"/> he never ſo wiſely (nor never ſo ſeaſonably, (even juſt when your feet were oft-times going down to the chambers of Death) and which ſometimes hath looked you in the face, and ſmit you in your Hearts, when you have entertained thoughts of acting wick<g ref="char:EOLhyphen"/>edly; yet have ye made good the Prophets words, <hi>In a Land of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>righteouſneſs you would do unjuſtly, and would not behold the Majeſty of the Lord:</hi> I ſay, let the time paſt ſuffice (and now turn at his reproof, and obey his call, leſt his Wrath be kindled againſt you, and he may not hear when you call, but may laugh at your calamity, and mock when your fear cometh (for though you have eſcaped one woe, and a ſecond, yet the Lord hath many more Arrows in his Quiver, which he can bring out of his Armory of his Juſtice, wherewith he will wound the hairy Scalp of every one that goeth on in his iniquities) that ſo a time of refreſhing you may know from the preſence of the Lord, before you go hence and ſee man no more, which is my hearts deſire to the Lord for you all.</p>
+            <closer>
+               <signed>Your Friend, <hi>J. F.</hi>
+               </signed> 
+               <dateline>
+                  <hi>Colcheſter,</hi> 
+                  <date>the 18th of of the 12th Moneth, called <hi>February,</hi> 69.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb n="21" facs="tcp:108594:12"/>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>THis choyce Child, this goodly Plant, this Tree of Righteouſneſs; lovely in her life to all that knew her, but moſt lovely at her Death, was of age thirteen Years five Weekes: She loved the Lord of a Child, and alſo thoſe that feared him: Her delight was to hear Truth decla<g ref="char:EOLhyphen"/>red, and to be with the excellent of the Earth, even with ſuch as excelled in Vertue: She dyed at her Father's Houſe in <hi>Colcheſter,</hi> after five dayes ſick<g ref="char:EOLhyphen"/>neſs; two dayes before her departure ſhe was filled with the Love of God; and the Springs of Life were ſo opened in her, that made her Cup to over-flow, ſo that ſhe brake forth into many precious Ex<g ref="char:EOLhyphen"/>preſſions, concerning, <hi>HOw Good the Lord was, and how Gracious he had been to her all her dayes, and never did her hurt in all her life;</hi> and then ſhe lay ſtill a while muſing and meditating upon the Lord, and making melody with Grace in her heart, which was clearly perceived by all that were about her; after which ſhe again broke forth into praiſes, <hi>How good the Lord was,</hi> and often brethed up to the Lord, <hi>that ſhe might be faithful, for if ſhe were not, her Tallent would be taken from her;</hi> and often, with great fervency of Spirit, begged of the Lord, <hi>That he would ſpeak what he had to ſay to her, and by her;</hi> for ſaid ſhe, <hi>I am rea<g ref="char:EOLhyphen"/>dy to ſerve thee, and alſo to obey thee;</hi> (ſhe was not willing to ſpeak more or leſs then what the Lord ſhould ſpeak by her, and in her by his Spirit) very often with great eagerneſs did ſhe put up that Petition to the Lord, at which time ſhe lay with moſt pleaſant and ſweet Countenance; ſaying, <hi>She was well, and that</hi>
+               <pb n="22" facs="tcp:108594:13"/> 
+               <hi>ſhe felt no pain:</hi> Soon after in the preſence of ſea<g ref="char:EOLhyphen"/>ven or eight Perſons ſhe ſpake, as followeth (which was taken in Short-hand from her mouth as ſhe ut<g ref="char:EOLhyphen"/>tered the words.)</p>
+            <p>WHatever is not of thy ſelf Lord purge out of me; yea, purge me throughly Lord, leave not a wicked word in me; thruſt away the power of Darkneſs, Lord make me able to praiſe thee, let me not come into the way which is evil, for if I do I ſhall diſhonour Thee and thy Truth: I hope I ſhall never rebel againſt thee more, but have full ſatisfaction in Thee and in thy Wayes, and not in the evil One and his wayes: Waſh me O Lord throughly, let not an un<g ref="char:EOLhyphen"/>adviſed word come out of my mouth; If it be thy will O Lord ſpeak, for I am willing to hear thee, and obey thee, though I be accounted unſhamefaced by the People of the World, for the ſame; I hope I ſhall ne<g ref="char:EOLhyphen"/>ver forget thy Loving-kindneſs while I am in this World: Oh! thy everlaſting Kindneſs is never to be forgotten; purge me, clenſe me throughly, let not any evil be left in me; make me clean O Lord, that I may be able to ſerve thee in the Land of the Living: Shew them, O Lord, the evil of their wayes, that have done evilly, and lay a burden upon their ſpirits that they may leave it: I feel no pain, the Lord is good to me; good is the Will of the Lord; let thy Will be done in Earth as its done in Heaven; Everlaſting Kindneſs, haſt thou ſhewn me, and I hope I ſhall ne<g ref="char:EOLhyphen"/>ver forget it while I am in this World; Lord purge all here, that they may all be clean and able to ſerve thee, let not an unclean ſpirit be here, that they
+<pb n="23" facs="tcp:108594:13"/> alſo may ſerve thee in the Land of the Living, whilſt they have a being in this World; Oh the Everlaſting Kindneſs of God is never to be forgetten, good art thou unto me, thy Goodneſs is never to be forgotten, woun<g ref="char:EOLhyphen"/>drous Works haſt thou done; waſh me, make me clean, leave not in me any thing which is not of thy ſelf; thou deſireſt not the death of a Sinner, but rather that he ſhould repent and live. And Lord, if I ſhould not improve my time, that which I have ſhall be taken from me; Lord take away the very ſtump of evil, leave it not in me; if I improve not my time, my Tallent will be taken from me, yea, aſſuredly it will.</p>
+            <p>
+               <hi>Then turning to one of her Brothers (who had not carried himſelf ſo in the Awe and Dread of the Lord as he ſhould do, though of late he hath given ſome hopes of his return) ſhe ſaid to him,</hi> Improve thy time, for thou knoweſt not how ſoon thou mayſt be taken a<g ref="char:EOLhyphen"/>way: If thou give thy mind to Drunkenneſs what will become of thee? thou muſt aſſuredly go to deſtruction, thou canſt not go to Heaven that way, thou canſt not ever expect it; but to Hell thou muſt go, where there is tor<g ref="char:EOLhyphen"/>ment for ever, where the Fire never goes out, but the Flames thereof are everlaſting: Thou art running head-long to deſtruction, and therefore wait upon the Lord, and exerciſe thy mind upon him, elſe thou muſt go to deſtruction.</p>
+            <p>
+               <hi>And ſo ſhe ſaid to two other of her Brothers,</hi> Mind the Lord, improve your times, as I hope I ſhall do mine, or elſe I had better never have known the Way of Truth.</p>
+            <p>
+               <hi>To her Brother, that ſhe firſt called; to him ſhe ſaid</hi> James, be not a ſorrow to thy Father and Mother, and
+<pb n="24" facs="tcp:108594:14"/> Brother and Siſter; but love the Lord, and then the Lord will love thee: Go not about to drink Wine (the houſe of our Father affords wine, where thou mayſt drink Wine, as we do moderately) leſt wrath and de<g ref="char:EOLhyphen"/>ſtruction be thy Portion: Fear the Lord, and mind what I ſay, Go not a Fudling, but fear the Lord, and beg of him to forgive thee; yea, beg Life of the Lord, and he may give it unto thee; but if thou go on in the broad way, deſtruction will be thy Portion; therefore fear the Lord, and mind what I ſay, the Lord will for<g ref="char:EOLhyphen"/>give thee if thou return and repens; but if thou doſt not, head-long into Hell thou muſt go<g ref="char:punc">▪</g> Thou haſt of ten grei<g ref="char:EOLhyphen"/>ved thy Father and Mother, Oh<g ref="char:punc">▪</g> what will become of thee! if thou return not Hell will be thy Portion for ever: Beg of the Lord to forgive thee; repent and walk in an other Way; Repent, I ſay, whilſt thy day laſteth; if thy day be over, then Hell will be thy Portion, Hell and Torment that never ends: The Lake is for the Lyar, and for the unclean, and for the Swearer, Hell is for them; But Heaven the Father's Boſom, the Father's Houſe, where there is Bread enough; thats the Portion of the Righteous: <hi>Then ſhe took him by the hand, and alſo about the neck, and kiſſed him:</hi> Mind what I ſay, O dear Brother, the Fire of Hell never goes out, no, ne<g ref="char:EOLhyphen"/>ver; is not that a long day? no, never, but flames for ever; that a long day Brother: Therefore beg of the Lord whilſt thou haſt a day: Thou haſt been very wick<g ref="char:EOLhyphen"/>ed, and haſt greived us, yea, thou haſt coſt me many a Tear; repent whilſt a day laſteth, leſt everlaſting Flames of Fire ſeiſe upon thee; thats a long day, Brother; and thou knowſt not how ſoon thy dayes may be ſhortened, and thou mayſt come to dye.</p>
+            <pb n="25" facs="tcp:108594:14"/>
+            <p> The Lord hath been good to me, I hope I ſhall never forget his loving kindneſs: <hi>To her Brother</hi> Benjamin, <hi>whom ſhe called, to him ſhe ſaid,</hi> Thou haſt been a Boy of a perverſe ſpirit; wo will alſo overtake thee, if thou walk in the Way of wickedneſs; but if thou walk in the ſmooth and narrow way, it will be well with thee; thou haſt been naught and ſtubborn, be not ſo naught now any more, but turn a new leafe, that when thou dieſt thou mayſt go to the Lord; In the Fathers Houſe there is bread enough; there thou ſhalt want for nothing, no, for no<g ref="char:EOLhyphen"/>thing, thy ſtubborn heart muſt be plucked down, beg of the Lord to forgive thee; go not on in crooked paths, but walk in the ſtrait and narrow way, and he will lead thee to happineſs, thou ſhalt not miſs of it.</p>
+            <p>
+               <hi>Then ſhe called to her Brother</hi> Jonathan, <hi>and ſaid to him,</hi> Be not thou naught; thou art very apt to be pettiſh and peeviſh, that is a bad ſpirit alſo, turn a new leaf, and beg of the Lord to forgive thee.</p>
+            <p>
+               <hi>Then to her Brother</hi> James <hi>ſhe ſaid again,</hi> Beg of the Lord to forgive thee, dear Brother <hi>James,</hi> walk in the way of the Righteous; I ſhall be glad you may all grow up as Trees of Righteouſneſs, and as Plants of the Lord; mind what I ſay to thee dear <hi>James,</hi> its my love to thee that cauſeth me thus to call upon thee, to be a new Plant, regenerate, born again; when a good thing comes into thy mind, hold it faſt, make much of it; when a wicked thing comes into thy mind, put it far from thee, put it away, and put a righteous thing in the room of it, and then thou wilt become a good Plant: I ſhall never forget the goodneſs of the Lord, if I ſhould his hand would reach me; if thou haſt but a day to live, be good that day, the Lord would not have one Soul to die and
+<pb n="26" facs="tcp:108594:15"/> periſh, deſire of the Lord to break thy ſtony heart, and to give thee a new heart; thou haſt had a foul heart, if thou goeſt on thou wilt never be out of torment, is not that a long day? yes, its a long day; Call upon the Lord, mind what I ſay, Brother, that will rejoyce me and thy Parents, Brothers and Siſters; thou haſt been wicked; Oh, what will become of thee, if thou doſt not repent, I cannot expreſs it, thou wilt never be out of Torment, but alwayes burning; and that is not a heat, Brother, like an Oven, heat with a little wood: Oh, Bro<g ref="char:EOLhyphen"/>ther, let it never be ſaid that, any of <hi>John Fu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly</hi>'s chil<g ref="char:EOLhyphen"/>dren are gone to Hell, and that he was a good man, but his children are wicked children; thou haſt coſt me ma<g ref="char:EOLhyphen"/>ny a tear; if thou return to the Lord, thou wilt then be their joy and delight; repent whilſt thou have a day to live; love the Lord, Brothers, love good men, hate the Devil; but, oh, love the Lord, and then ye will he a joy to your Father and Mother.</p>
+            <p>
+               <hi>Then ſhe made a little pauſe, and ſaid,</hi> I ſee a Vi<g ref="char:EOLhyphen"/>ſion, a little Youth came in, in a Murry Gound, the love<g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt Lad that ever I ſaw in all my life, with a white cloth about his middle, and a Crown upon his head, and he pickt at my Noſe; but when I ſpake to him in the Name of the Lord, his Crown fell from off his head, and al<g ref="char:EOLhyphen"/>moſt all his hair, and ſo he vaniſhed away; <hi>the next day ſhe again mentioned the lovelineſs of the Lad. This Viſion is recommended to the Spirit of God, that reveals ſecrets to them that fear him; ſhe not giving any Interpretation thereof.</hi>
+            </p>
+            <p>
+               <hi>When ſhe ſaw one of her Siſters weep, ſhe ſaid,</hi> Weep not for me, I am well; <hi>ſhe never took not<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce of death: Then ſhe ſaid again<g ref="char:punc">▪</g>
+               </hi> I am very well, I hope I
+<pb n="27" facs="tcp:108594:15"/> ſhall never forget the Lord; all ſerve the Lord, that he may be your Portion, that will be manner of boaſting; in my Fathers Houſe there is bread enough, there is ful<g ref="char:EOLhyphen"/>neſs, want of nothing, yea, there is fulneſs of Bread, durable Riches and Honour; I deſire never to forget the Lord.</p>
+            <p>
+               <hi>The Reader may take notice, that all theſe fore-going words were not ſpoken by her without inter<g ref="char:EOLhyphen"/>miſſion; but of times ſhe made a pauſe, as being ſpent and out of breath, and then her heart being lifted up unto the Lord, and rejoycing in his Pure, Holy, Freſh, Living Preſence; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e would ſing un<g ref="char:EOLhyphen"/>to the Lord inwardly, with Grace in her heart; and then begin again, as the ſpirit of the Lord breathed through her; for it was manifeſt to the Beholders, and Hearers of her, as it will be evident to the Con<g ref="char:EOLhyphen"/>ſciences of all that hears this Relation, that have any ſence or feeling of the Life of God; that it was not ſhe that ſpoke, but the Spirit of her Heavenly Father that ſpake in her; and that thus inabled her rightly to divide the Word of Truth, and to give to each of her Brothers their Portion in due ſeaſon, which I hope will take root downward, and bring forth fruit upward, to the Honour, Glory, and Praiſe of the Husband-Man, whoſe Handy-Works Praiſe him; to whom be Glory, Honour and Praiſe for ever, and Dominion in the higheſt, and Hea<g ref="char:EOLhyphen"/>venly Halelujahs for ever Amen.</hi>
+            </p>
+            <p>Written by the Father of this dear Lamb, who is a Companion to all that fear the Lord, In ſcorn called a <hi>Quaker.</hi>
+            </p>
+            <closer>
+               <signed>J. F.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="28" facs="tcp:108594:16"/>
+            <head>Poſtſcript.</head>
+            <div type="testimonial">
+               <p>ALl young Lads and Girles, that reads this Re<g ref="char:EOLhyphen"/>lation, read it with ſeriouſneſs and good con<g ref="char:EOLhyphen"/>ſideration; and as you feel deſires, that your latter end may be as this dear Child's was; then con<g ref="char:EOLhyphen"/>ſider; what led her to that end? and whether the ſame doth lead you? whether her way be your way, her delight your delight, and ſuch Companions a ſhe choſe be your Companions? Her Way was the Light in her own heart, which made her to eſchew evil words and actions which others ran into forlack of taking heed thereto: Her delight was to be obe<g ref="char:EOLhyphen"/>dient to her Parents, and to be ſerviceable to the leaſt of God's People, without repining; nay, ſhe never thought any thing that ſhe was capable of do<g ref="char:EOLhyphen"/>ing, for any of the Servants of God, a burthen Her Companions were them that feared the Lord; and for children, ſhe bore moſt affection to thoſe that were moſt ſober and innocent; to be ſhort, ſhe lived as ſhe dyed, that was, In ſubjection to that pure Prin<g ref="char:EOLhyphen"/>ciple of Light that was in her, by which ſhe was taught obedience, to that godly diſcipline and go<g ref="char:EOLhyphen"/>vernment, to thoſe that were over her in the Lord; ſo all that would lay down their heads in the like joy and peace, as ſhe hath done, and would be crowned with honour and immortality, muſt diligently ſearch to find and know that pure Principle of Light in you, that is a Reprover of every evil
+<pb n="29" facs="tcp:108594:16"/> thought, word, and action, and then walk in obe<g ref="char:EOLhyphen"/>dience and ſubjection thereunto, that it may not be your Reprover, but your Comforter, and ſpeak peace unto you in your own boſoms morning and evening; that ſo when the laſt morning and evening of your lives come, you may be ſure of that Peace that none can take from you; that ſo death may be no more terrible to you, then it was to this tender Plant, who walking in innocency, dyed in peace, and is gathered into Glory; and hath a Name and Place among the Faithful.</p>
+               <closer>
+                  <signed>S. C.</signed>
+               </closer>
+            </div>
+            <div type="testimonial">
+               <p>SInce the departure of my dear Lamb, hearing what Lyes hath been broached concerning her, in diſpite of Gods precious everlaſting Truth, as if in her life time ſhe walked not amongſt thoſe People cal<g ref="char:EOLhyphen"/>led <hi>Quakers;</hi> but gave her Brothers charge, to have a care of them at her death; which thing being as falſe and contrary as Light is to Darkneſs: I could not but bear my Teſtimony againſt it; The Child was alwayes a Lover of thoſe People; to go to their Meetings it was as her appointed food; their compa<g ref="char:EOLhyphen"/>ny was her delight, ſhe never knew when ſhe had enough of it, or did enough for them: Both in her life, and at her death alſo, ſhe choſe to forſake Father and Mother to live in the City of <hi>London,</hi> becauſe ſhe could enjoy more of their Meetings and Company then at <hi>Colcheſter:</hi> ſhe was a Child that feared the Lord, loved and obeyed his Light in her heart (according to her Meaſure) which God had
+<pb n="30" facs="tcp:108594:17"/> placed in her; ſhe feared and hated a Lye, and lived and dyed in the Truth, which the People called <hi>Quakers</hi> do profeſs.</p>
+               <p>I ſay, hearing this falſe Report concerning my dear Child; for the Truth's ſake I cannot be ſilent, but am conſtrained to bring in my teſtimony con<g ref="char:EOLhyphen"/>cerning her life and death, That it was in God's precious Truth, to wit, the Light Chriſt Jeſus, the Rock of Ages, which ſhe was built upon, which is the Way, the Truth, and the Life, which hath led her to her Heavenly Father, where ſhe reſteth in his Boſom, and her good Works follow her; as you may ſee by the foregoing Treatiſe; and the Lord knoweth that it is not ſo much to commend my Child, as the Truth and the Way in which ſhe walked, which preſerved and kept her unſpotted of the World to the coming of the Lord and Saviour Jeſus Chriſt, in whom ſhe is now at reſt: And I would adviſe all, both old and young, that have not yet walked in obedience to the Light which ſhi<g ref="char:EOLhyphen"/>neth in their hearts, now to delay no longer, but ſpeedily to give up to be led thereby; for the Light is the Way to Life eternal, to all ſuch as walks in, and are given up to be led by it, as ſhe was; for Wiſdom is juſtified of her Children; a good Tree cannor bring forth evil fruit, neither can an evil Tree bring forth good fruit (as the Scripture of Truth Teſtifieth) by the fruit you ſhall know whether the Tree or Root, which it grew upon, be good or evil; ſo I ſhall leave this to the Witneſs of God in all Conſciences to judge of the Root, which ſhe was ingrafted upon, and of the Way which ſhe
+<pb n="31" facs="tcp:108594:17"/> walked in, by the fruit which ſhe brought forth, to the Praiſe and Glory of God, who loved her, and hath taken her to himſelf, who knoweth what is beſt for us; to whom be all Glory and Praiſe rendred, who alone is worthy.</p>
+               <closer>
+                  <signed>By me her dear Mother, Anna Furly.</signed>
+               </closer>
+            </div>
+            <div type="testimonial">
+               <p>THe Lord having in meaſure made me ſenſible of that bleſſed Truth, which the People of God called <hi>Quakers</hi> do own, and which my dear Siſter bore teſtimony unto, both in her life and at her death: I could do no leſs then bring in my teſtimony alſo to the ſame Truth; that there is no other way but that to Heaven and Happineſs; and that I may be found walking and abiding therein to the end of my dayes is the deſire of my ſoul; knowing that he or ſhe that turns their backs upon the Light, which is the Way of Life, the Lords Soul ſhall have no pleaſure in ſuch; yea, better were it for ſuch they had never been born, then having once profeſſed this Truth, they ſhould turn aſide from it, into crooked and by<g ref="char:EOLhyphen"/>pathes; ſurely to ſuch the Light will be their condem<g ref="char:EOLhyphen"/>nation; but unto them that walk in the Light, as he is in the Light, there is no occaſion of ſtumbling. Thus having born this my Teſtimony, I have peace therein, not minding the reproaches of <hi>Amoleck,</hi> nor the revilings of the Children of <hi>Moab;</hi> for I e<g ref="char:EOLhyphen"/>ſteem it greater riches to ſuffer afflictions with the People of God, then to dwell in the tents of wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k<g ref="char:EOLhyphen"/>edneſs or injoy the pleaſures of ſin for a ſeaſon.</p>
+               <closer>
+                  <signed>
+                     <hi>Anna Furly,</hi> jun.</signed>
+               </closer>
+               <trailer>The End.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
